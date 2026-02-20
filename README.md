@@ -26,8 +26,8 @@ Learning production DevOps workflows by running my own home lab with Flux, autom
 
 - 📚 Self-taught through [boot.dev](https://boot.dev) and [Codecademy](https://codecademy.com)
 - 💼 Currently: Customer service agent
-- 🎯 Goal: DevOps engineer
-- 🏠 Running: A home k8s cluster that I definitely haven't broken today
+- 🎯 Goal: DevOps/Software engineer
+- 🏠 Running: A home k8s cluster with current and coming applications
 
 ## Why Go?
 
