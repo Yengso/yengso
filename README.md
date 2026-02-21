@@ -31,8 +31,8 @@ Learning production DevOps workflows by running my own home lab with Flux, autom
 
 ## Why Go?
 
-Started wanting to be a backend developer, learned Go through my courses, and liked it way more than JS or Python for its simplicity. Now I want to develop further with Golang as the main language, but open to other languages as well.
+I like that a few lines of code can spin up something real that other people actually use. Completed a full backend career path covering JS, Node.js and PostgreSQL, and I'm now building with Go which clicked in a way the others didn't.
 
 ## Why DevOps?
 
-Watched a YouTuber set up their own Kubernetes server and thought "I want to do that." Turns out building the full pipeline—from code to deployment—is way more interesting than just one piece of it.
+Watched a YouTuber set up their own Kubernetes server and thought "I want to do that." Turns out building the full pipeline from code to deployment is way more interesting than just one piece of it.
