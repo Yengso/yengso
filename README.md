@@ -15,9 +15,14 @@ Currently focused on:
 - 📧 Resend
 
 Tools I use:
-- Docker
+- Go
+- PostgreSQL
+- Railway
+- Stripe
+- Resend
+- Cloudflare R2
 - GitHub Actions
-- Linux
+- Namecheap Private Email
 - Claude
 
 ## About Me
