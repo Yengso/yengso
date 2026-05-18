@@ -4,8 +4,7 @@ Building my escape route from customer service, one failed and learned lesson at
 
 ## What I'm Working On
 
-🚀 Learning backend and DevOps through [Boot.dev](https://boot.dev)
-
+🚀 Learning backend and DevOps through [Boot.dev](https://boot.dev)  
 🔧 Currently building HTTP servers in Go  
 🎯 Goal: land a backend / DevOps role
 
