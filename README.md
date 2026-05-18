@@ -21,4 +21,5 @@ Building my escape route from customer service, one failed and learned lesson at
 
 📚 Self-taught through Boot.dev and Codecademy  
 💼 Currently: customer service agent
+
 📍 Based in Sweden
