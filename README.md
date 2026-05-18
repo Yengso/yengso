@@ -1,6 +1,6 @@
 # Hey, I'm Sondre 👋
 
-Building my escape route from customer service — one commit at a time.
+Building my escape route from customer service, one failed and learned lesson at a time.
 
 ## What I'm Working On
 
