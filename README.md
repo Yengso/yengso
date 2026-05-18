@@ -6,7 +6,7 @@ Building my escape route from customer service, one failed and learned lesson at
 
 🚀 Learning backend and DevOps through [Boot.dev](https://boot.dev)  
 🔧 Currently building HTTP servers in Go  
-🎯 Goal: land a backend / DevOps role
+🎯 Goal: Looking for a backend or DevOps role where I can grow long-term and keep learning
 
 ## Tech Stack
 
@@ -20,5 +20,5 @@ Building my escape route from customer service, one failed and learned lesson at
 ## About Me
 
 📚 Self-taught through Boot.dev and Codecademy  
-💼 Currently: customer service agent, not for long  
+💼 Currently: customer service agent 
 📍 Based in Sweden
